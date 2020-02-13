@@ -5929,7 +5929,7 @@
                 id: "valentine_2020_replace_target_240x310_bg"
             },
             {
-                src: "images/89.png",
+                src: "images/27.png",
                 id: "valentine_2020_replace_target_480x502_character"
             },
             {
